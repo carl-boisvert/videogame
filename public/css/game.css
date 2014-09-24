@@ -1,0 +1,8 @@
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+.gameName{
+    font-size: 1.5em;
+    text-align: center;
+}
